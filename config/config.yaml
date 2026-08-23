@@ -1,0 +1,12 @@
+guild_id: 0
+categoria_tickets_id: 0
+staff_role_id: 0
+log_channel_id: 0
+
+banco:
+  caminho: data/tickets.db
+  criar_pasta: true
+
+transcricoes:
+  caminho: data/transcricoes
+  criar_pasta: true
